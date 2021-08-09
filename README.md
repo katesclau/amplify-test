@@ -13,3 +13,10 @@ Challenges:
 - Reference local DB (Postgres) from `docker-compose.yml`
 - Use external cognito for authentication/authorization
 
+## What this repository accomplishes
+- Runs AppSync with `amplify mock api`
+  - with DynamoDB local (SQLiteDB)
+
+
+## Usage
+`yarn start:all`
